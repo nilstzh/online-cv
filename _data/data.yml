@@ -62,16 +62,18 @@ career-profile:
     title: Summary
     summary: |
       I have 5+ years of experience in web development and looking for an interesting 
-      project and a nice team to join. I began my career as a Ruby Backend developer 
-      and gained a lot of different experiences since. I’m very much open to exploring 
-      new technologies and approaches. I don’t believe “because I’ve always done it this 
-      way” to be a valid argument in tech. But I do believe in following best coding 
-      practices no matter the stack. 
-      I like working in startups because I value flexibility and opportunity to make 
-      a bigger impact. Building a cool product with a great team is one of the best parts 
-      of being a software engineer for me. 
-      I have spent the last four years working on complex VoIP systems but recently 
-      feel up for new challenges.
+      project and a nice team to join.
+      - Began my career as a Ruby Backend developer and gained a lot of different 
+      experiences since. 
+      - Very much open to exploring new technologies and approaches.
+      - Don’t believe “because I’ve always done it this way” to be a valid argument in tech. 
+      - But I do believe in following best coding practices no matter the stack. 
+      - Like working in startups because I value flexibility and opportunity to make 
+      a bigger impact. 
+      - Building a cool product with a great team is one of the best parts of being 
+      a software engineer for me. 
+      - Spent the last four years working on complex VoIP systems but recently feel up 
+      for new challenges.
 
 # education:
 #     title: Education
