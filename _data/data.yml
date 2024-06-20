@@ -30,19 +30,6 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf:
 
-    skills:
-      title: Main Skills
-      info:
-        - item: Ruby
-        - item: Ruby on Rails 
-        - item: Elixir
-        - item: Phoenix
-        - item: Elm
-        - item: PostgreSQL
-        - item: Git
-        - item: GitHub
-        - item: Docker
-
     languages:
       title: Languages
       info:
@@ -242,26 +229,24 @@ experiences:
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Main Skills
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Ruby
 
       - name: Ruby on Rails
-        level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Elixir
+
+      - name: Phoenix
+
+      - name: Elm
+
+      - name: PostgreSQL
+
+      - name: Git / GitHub
+
+      - name: Docker
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
