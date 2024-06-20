@@ -61,24 +61,17 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      I'm a software deleloper with 5+ years of experience looking for an interesting 
-      project and a nice team to join.
-      I began my career as a Ruby Backend developer and gained a lot of different 
-      experiences since. An incomplete list of things I was doing in the last 5 years:
-      - working with backends built with Ruby on Rails and Elixir / Phoenix - a lot,
-      - working with frontends in Elm - decent amount,
-      - contributing to some JS repos (Node and React) - occasionally,
-      - creating GCP Functions in Go - multiple,
-      - building an Electron wrapper application - one (but it supports both, Windows and Mac),
-      - keeping test coverage of my code high - always,
-      - overthinking how to name a module, class or function - often.
-      I’m very much open to exploring new technologies and approaches. I don’t believe 
-      “because I’ve always done it this way” to be a valid argument in tech. But I do 
-      believe in following best coding practices no matter the stack. 
+      I have 5+ years of experience in web development and looking for an interesting 
+      project and a nice team to join. I began my career as a Ruby Backend developer 
+      and gained a lot of different experiences since. I’m very much open to exploring 
+      new technologies and approaches. I don’t believe “because I’ve always done it this 
+      way” to be a valid argument in tech. But I do believe in following best coding 
+      practices no matter the stack. 
       I like working in startups because I value flexibility and opportunity to make 
-      a bigger impact. Building a cool product with a great team is one of the best parts of 
-      being a software engineer for me. I have spent the last four years working on complex 
-      VoIP systems but recently feel up for new challenges.
+      a bigger impact. Building a cool product with a great team is one of the best parts 
+      of being a software engineer for me. 
+      I have spent the last four years working on complex VoIP systems but recently 
+      feel up for new challenges.
 
 # education:
 #     title: Education
