@@ -42,21 +42,21 @@ sidebar:
     technologies:
       title: Main skills
       info:
-      - item: Ruby
+        - item: Ruby
 
-      - item: Ruby on Rails
+        - item: Ruby on Rails
 
-      - item: Elixir
+        - item: Elixir
 
-      - item: Phoenix
+        - item: Phoenix
 
-      - item: Elm
+        - item: Elm
 
-      - item: PostgreSQL
+        - item: PostgreSQL
 
-      - item: Git / GitHub
+        - item: Git / GitHub
 
-      - item: Docker
+        - item: Docker
 
 career-profile:
     title: Summary
