@@ -39,17 +39,24 @@ sidebar:
         - idiom: Ukrainian
           level: Native
 
-    # interests:
-    #   title: Interests
-    #   info:
-    #     - item: Climbing
-    #       link:
+    technologies:
+      title: Main skills
+      info:
+      - item: Ruby
 
-    #     - item: Snowboarding
-    #       link:
+      - item: Ruby on Rails
 
-    #     - item: Cooking
-    #       link:
+      - item: Elixir
+
+      - item: Phoenix
+
+      - item: Elm
+
+      - item: PostgreSQL
+
+      - item: Git / GitHub
+
+      - item: Docker
 
 career-profile:
     title: Summary
@@ -228,25 +235,25 @@ experiences:
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Main Skills
+# skills:
+#     title: Main Skills
 
-    toolset:
-      - name: Ruby
+#     toolset:
+#       - name: Ruby
 
-      - name: Ruby on Rails
+#       - name: Ruby on Rails
 
-      - name: Elixir
+#       - name: Elixir
 
-      - name: Phoenix
+#       - name: Phoenix
 
-      - name: Elm
+#       - name: Elm
 
-      - name: PostgreSQL
+#       - name: PostgreSQL
 
-      - name: Git / GitHub
+#       - name: Git / GitHub
 
-      - name: Docker
+#       - name: Docker
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
