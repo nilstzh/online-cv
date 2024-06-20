@@ -30,6 +30,19 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf:
 
+    skills:
+      title: Main Skills
+      info:
+        - item: Ruby
+        - item: Ruby on Rails 
+        - item: Elixir
+        - item: Phoenix
+        - item: Elm
+        - item: PostgreSQL
+        - item: Git
+        - item: GitHub
+        - item: Docker
+
     languages:
       title: Languages
       info:
@@ -39,20 +52,20 @@ sidebar:
         - idiom: Ukrainian
           level: Native
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+    # interests:
+    #   title: Interests
+    #   info:
+    #     - item: Climbing
+    #       link:
 
-        - item: Snowboarding
-          link:
+    #     - item: Snowboarding
+    #       link:
 
-        - item: Cooking
-          link:
+    #     - item: Cooking
+    #       link:
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
       Software engineer with 5+ years of experience in web development. 
       Mainly worked in Ruby and Elixir, but there are also various amounts 
@@ -87,7 +100,7 @@ career-profile:
 #             - Bullet point
 
 experiences:
-    title: Experiences
+    title: Work Experience
     info:
       - role: Software Engineer
         time: Sep 2022 - Present
