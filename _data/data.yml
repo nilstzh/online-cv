@@ -39,24 +39,24 @@ sidebar:
         - idiom: Ukrainian
           level: Native
 
-    # technologies:
-    #   title: Main skills
-    #   info:
-    #     - item: Ruby
+    technologies:
+      title: Main skills
+      info:
+        - item: Ruby
 
-    #     - item: Ruby on Rails
+        - item: Ruby on Rails
 
-    #     - item: Elixir
+        - item: Elixir
 
-    #     - item: Phoenix
+        - item: Phoenix
 
-    #     - item: Elm
+        - item: Elm
 
-    #     - item: PostgreSQL
+        - item: PostgreSQL
 
-    #     - item: Git / GitHub
+        - item: Git / GitHub
 
-    #     - item: Docker
+        - item: Docker
 
 # career-profile:
 #     title: Summary
@@ -103,25 +103,25 @@ sidebar:
 #             - Bullet point
 #             - Bullet point
 
-skills:
-    title: Main Skills
+# skills:
+#     title: Main Skills
 
-    toolset:
-      - name: Ruby, Ruby on Rails
+#     toolset:
+#       - name: Ruby, Ruby on Rails
 
-      - name: Elixir, Phoenix
+#       - name: Elixir, Phoenix
 
-      - name: PostgreSQL
+#       - name: PostgreSQL
 
-      - name: Git, GitHub
+#       - name: Git, GitHub
 
-      - name: Docker
+#       - name: Docker
 
-      - name: Elm
+#       - name: Elm
       
-      - name: HTML/CSS, Javascript, React, Electron
+#       - name: HTML/CSS, Javascript, React, Electron
       
-      - name: GCP, AWS
+#       - name: GCP, AWS
 
 experiences:
     title: Work Experience
