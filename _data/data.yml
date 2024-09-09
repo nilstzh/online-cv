@@ -18,7 +18,7 @@ sidebar:
     timezone: UTC+2/+3
     citizenship:
     website: 
-    linkedin: nils-truzhenko-7736a519b
+    linkedin: nils-truzhenko
     xing:
     github: nilstzh
     telegram: # add your nickname without '@' sign
@@ -39,43 +39,43 @@ sidebar:
         - idiom: Ukrainian
           level: Native
 
-    technologies:
-      title: Main skills
-      info:
-        - item: Ruby
+    # technologies:
+    #   title: Main skills
+    #   info:
+    #     - item: Ruby
 
-        - item: Ruby on Rails
+    #     - item: Ruby on Rails
 
-        - item: Elixir
+    #     - item: Elixir
 
-        - item: Phoenix
+    #     - item: Phoenix
 
-        - item: Elm
+    #     - item: Elm
 
-        - item: PostgreSQL
+    #     - item: PostgreSQL
 
-        - item: Git / GitHub
+    #     - item: Git / GitHub
 
-        - item: Docker
+    #     - item: Docker
 
-career-profile:
-    title: Summary
-    summary: |
-      I have 5+ years of experience in web development and looking for an interesting project 
-      and a nice team to join.
-      I don’t believe “because I’ve always done it this way” to be a valid argument in tech. 
-      I keep learning and being curious.
-      One of the best parts of being a software engineer for me is building a cool product 
-      with a great team. 
-      What I’ve been doing so far:
-      - working withing object-oriented and function programming approaches,
-      - building highly concurrent web applications with Elixir and Ruby,
-      - creating systems around event sourcing design pattern,
-      - utilizing event-driven architecture,
-      - implementing APIs and using APIs implemented by others,
-      - keeping high test coverage,
-      - writing code meant to be read,
-      - overthinking how to name a module, class or function.
+# career-profile:
+#     title: Summary
+#     summary: |
+#       I have 5+ years of experience in web development and looking for an interesting project 
+#       and a nice team to join.
+#       I don’t believe “because I’ve always done it this way” to be a valid argument in tech. 
+#       I keep learning and being curious.
+#       One of the best parts of being a software engineer for me is building a cool product 
+#       with a great team. 
+#       What I’ve been doing so far:
+#       - working withing object-oriented and function programming approaches,
+#       - building highly concurrent web applications with Elixir and Ruby,
+#       - creating systems around event sourcing design pattern,
+#       - utilizing event-driven architecture,
+#       - implementing APIs and using APIs implemented by others,
+#       - keeping high test coverage,
+#       - writing code meant to be read,
+#       - overthinking how to name a module, class or function.
 
 # education:
 #     title: Education
@@ -103,6 +103,26 @@ career-profile:
 #             - Bullet point
 #             - Bullet point
 
+skills:
+    title: Main Skills
+
+    toolset:
+      - name: Ruby, Ruby on Rails
+
+      - name: Elixir, Phoenix
+
+      - name: PostgreSQL
+
+      - name: Git, GitHub
+
+      - name: Docker
+
+      - name: Elm
+      
+      - name: HTML/CSS, Javascript, React, Electron
+      
+      - name: GCP, AWS
+
 experiences:
     title: Work Experience
     info:
@@ -110,31 +130,27 @@ experiences:
         time: Sep 2022 - Present
         company: Brevo
         details: |
-          - Participating in a VoIP Phone system implementation from scratch (backend)
-          - Developing highly concurrent Elixir applications
-          - Owning, maintaining and improving various services (Call History; Tracking etc.)
-          - Building Electron application for Mac and Windows
-          - Features development from grooming to production
-          - Maintaining high test coverage with ExUnit (85+%)
+          - Led the development of the Office Hours feature, allowing users to manage their availability for incoming calls: designed the PostgreSQL data layer, implemented the backend in Elixir, and supervised the frontend development
+          - Led the development of the User Behavior Analytics, gathering Phone usage data across web and mobile platforms for internal analytics: built a Phoenix API, integrated new data into existing flows, ensured microservices integration
+          - Built a reliable Call History – an inseparable part of a phone system – featuring async data processing with Elixir GenServer, event sourcing approach, and PostgreSQL's LISTEN/NOTIFY as a messaging mechanism
+          - Initiated and delivered Phone recordings quality and transcriptions accuracy improvement by implementing dual-channel call recordings and transcriptions with Twilio and Google Cloud Platform Speech-to-Text
+          - Developed a cross-platform desktop application with Electron, providing a seamless calling experience for Brevo Phone users, and automated its build and release process using GitHub Actions with publishing to GitHub and AWS
       - role: Full Stack Engineer
         time: Sep 2020 - Present
         company: Yodel.io
         details: |
-          - Working on sophisticated VoIP phone system (both backend and frontend)
-          - Participating in developing microservices-oriented and monolith applications
-          - Implementing integrations with various 3rd-party platforms (Hubspot, Zendesk, etc.) 
-          - Directly transforming product feature requests to working code
-          - Building SMS API
-          - Implementing calls statistics
-          - Maintaining high test coverage with minitest
+          - Automated Subscriptions Management in a monolith Rails application using Stripe to allow customers to cancel their subscription or request an upgrade, which streamlined the process and reduced manual support efforts
+          - Implemented SMS API for sending and receiving text messages integrated into our existing Rails API application which fulfilled a high-demand user request and contributed to user retention and acquisition 
+          - Built 3rd party APIs integrations (Hubspot, Zendesk, Intercom) providing customers with two-way contact synchronization, call logging, and ticket creation for missed calls
+          - Improved the Call Interface built with Elm by adding profile links/icons to enable instant in-call access to contact profiles on various platforms (Facebook, Twitter, Hubspot, Intercom, Zendesk, etc)
+          - Developed, deployed, and maintained Statistics service written in Elixir as well as the frontend for it to provide comprehensive daily, weekly, and monthly call statistics for the customers
       - role: Ruby on Rails Developer
         time: Feb 2019 - Mar 2020
         company: FundSeeder Technologies
         details: |
-          - Collaborated within a distributed, remote-first team on backend development
-          - Developed backend systems interacting with internal and third-party APIs (e.g., Binance, Modulus Exchange)
-          - Contributed to new feature development, including "loaders" for acquiring, parsing, and transmitting data in different formats
-          - Writing and maintaining tests using RSpec
+          - Developed backend services to fetch, parse, and save data from 3rd party APIs (Binance, Modulus Exchange)
+          - Participated in implementing a Web Scrapper using Ruby with Nokogiri gem to acquire data from various sources
+          - Worked on MySQL database design improvements, including vertical partitioning and eliminating redundancies, for performance-enhancing purposes 
 
 # certifications:
 #       title: Certifications
@@ -244,26 +260,6 @@ experiences:
 #         link: "#"
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
-
-# skills:
-#     title: Main Skills
-
-#     toolset:
-#       - name: Ruby
-
-#       - name: Ruby on Rails
-
-#       - name: Elixir
-
-#       - name: Phoenix
-
-#       - name: Elm
-
-#       - name: PostgreSQL
-
-#       - name: Git / GitHub
-
-#       - name: Docker
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
